@@ -1,5 +1,7 @@
 ## Open Schedule
 
+[Lien du projet](https://github.com/Funeoz/OpenSchedule)
+
 ### 1. [Introduction](#introduction)
 
 Pour ce projet de L2 à Efrei Paris, le but était d'utiliser les skip lists, structures de données entre les listes chainées et les arbres.
